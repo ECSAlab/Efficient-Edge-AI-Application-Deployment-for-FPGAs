@@ -1,5 +1,5 @@
 # Efficient-Edge-AI-Application-Deployment-for-FPGAs
-This repo is a placeholder for the extended paper belonging to MDPI Special Issue [Design Automation, Computer Engineering, Computer Networks and Social Media (SEEDA-CECNSM 2021)](https://www.mdpi.com/journal/information/special_issues/SEEDA_CECNSM_2021) and featured in the [Information, Volume 13, Issue 6 (June 2022)](https://www.mdpi.com/2078-2489/13/6). [MDPI Open Access](https://www.mdpi.com/2078-2489/13/6/279).
+This repo is a placeholder for the extended paper belonging to MDPI Special Issue [Design Automation, Computer Engineering, Computer Networks and Social Media (SEEDA-CECNSM 2021)](https://www.mdpi.com/journal/information/special_issues/SEEDA_CECNSM_2021) and featured in the [Information, Volume 13, Issue 6 (June 2022)](https://www.mdpi.com/2078-2489/13/6). Download link [MDPI Open Access](https://www.mdpi.com/2078-2489/13/6/279).
 
 # Citation
 If you use this work in academic research, please, cite it using the following BibTeX:
